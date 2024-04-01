@@ -29,15 +29,14 @@ Here are some ideas to get you started:
 </div>
 
 
-### Hi humans 👋 , I am Olakunle but you can call me Olakunle[:2] 🙂
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunlesanni&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xi6th&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
 <br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445)](https://github.com/kunlesanni/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445&hide=html,css,C#)](https://github.com/kunlesanni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xi6th&layout=compact&card_width=445&hide=html,css,C#)](https://github.com/kunlesanni/github-readme-stats)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&hide=javascript,html)-->
 
