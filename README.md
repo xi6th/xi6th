@@ -31,25 +31,6 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xi6th&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<br>
-<br>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445)](https://github.com/kunlesanni/github-readme-stats)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xi6th&layout=compact&card_width=445&hide=html,css,C#)](https://github.com/kunlesanni/github-readme-stats)
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&hide=javascript,html)-->
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div>
@@ -70,6 +51,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xi6th&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<br>
+<br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445)](https://github.com/kunlesanni/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xi6th&layout=compact&card_width=445&hide=html,css,C#)](https://github.com/kunlesanni/github-readme-stats)
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&hide=javascript,html)-->
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xi6th&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
