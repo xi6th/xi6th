@@ -1,6 +1,11 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=220&section=header&text=DOUGLAS%20EJIROGHENE%20DOMINIC&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=34"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=860&lines=DOUGLAS+EJIROGHENE+DOMINIC;Engineering+Lead+%7C+Geology+%26+Computational+Systems"
+    alt="Animated header text"
+  />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=220&section=header&text=DOUGLAS%20EJIROGHENE%20DOMINIC&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=34"
     alt="Header banner"
   />
 
@@ -22,10 +27,6 @@
     </a>
   </p>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Cloud-native+systems;DevOps+automation;Applied+machine+learning;Geology+%2B+computational+workflows"
-    alt="Typing SVG"
-  />
 </div>
 
 <br />
