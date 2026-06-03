@@ -4,9 +4,10 @@
     alt="Animated greetings."
   />
 
-  <p>
-    <strong>Engineering Lead</strong> | Geology & Computational Systems
-  </p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems"
+    alt="Typing role"
+  />
 
   <img
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
@@ -28,7 +29,19 @@
 
 </div>
 
+<br />
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=17&pause=1000&color=14B8A6&center=true&vCenter=true&width=980&lines=Cloud-native+systems%2C+DevOps+automation%2C+applied+machine+learning%2C+and+geoscience+workflows"
+    alt="Typing summary"
+  />
+</div>
+
+<br />
+
 ## Core Skills
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="36" height="36" />
@@ -39,8 +52,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="36" height="36" />
 </div>
-
-## Skills
 
 <table>
   <tr>
