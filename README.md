@@ -1,5 +1,5 @@
 <div align="center">
-  <p><strong>Greetings:</strong> Hey, I'm Douglas Ejiroghene Dominic | Bonjour, je suis Douglas Ejiroghene Dominic | Hola, soy Douglas Ejiroghene Dominic | Hallo, ich bin Douglas Ejiroghene Dominic</p>
+  <p><strong>Greetings:</strong> See <a href="./greetings.md">greetings.md</a></p>
 
   <img
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
