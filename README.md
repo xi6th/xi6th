@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=220&section=header&text=DOUGLAS%20EJIROGHENE%20DOMINIC&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=34"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=220&section=header&text=DOUGLAS%20EJIROGHENE%20DOMINIC&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=34"
     alt="Header banner"
   />
 
