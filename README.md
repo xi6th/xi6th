@@ -35,7 +35,12 @@
   />
 </div>
 <div align="center">
-  <strong> Core </strong>
+  <h1>
+     <strong> Core </strong>
+  </h1>
+</div>
+</br>
+ 
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="36" height="36" />
