@@ -135,7 +135,7 @@ _Independent Academic Research - 2019_
     <td width="50%">
       <strong>Top languages</strong><br /><br />
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi6th&layout=compact&card_width=445&hide=html,css,C#"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi6th&layout=compact&theme=nightowl&langs_count=6&hide=html,css,C%23"
         alt="Top languages"
       />
     </td>
