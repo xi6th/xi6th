@@ -34,11 +34,6 @@
     alt="Typing role"
   />
 </div>
-<div align="center">
-  <h2>
-     <strong> Core </strong>
-  </h2>
-</div>
  
 </div>
 <div align="center">
