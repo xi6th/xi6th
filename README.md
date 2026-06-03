@@ -4,7 +4,7 @@
     alt="Header banner"
   />
 
-  <h3>Founder & Engineering Lead | Geology & Computational Systems</h3>
+  <h3>Engineering Lead | Geology & Computational Systems</h3>
 
   <p>
     <a href="mailto:edominicdouglas@gmail.com">
