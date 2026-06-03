@@ -11,7 +11,7 @@
   <img
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
     width="120"
-    alt="Coding at home"
+    alt="Coding at home."
   />
 
   <p>
@@ -28,12 +28,6 @@
 
 </div>
 
-<br />
-
-<p align="center"><em>Cloud-native systems, DevOps automation, applied machine learning, and geoscience workflows.</em></p>
-
-<br />
-
 ## Core Skills
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="36" height="36" />
@@ -46,8 +40,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="36" height="36" />
 </div>
 
-## Summary
+<br />
 <p align="center"><em>Cloud-native systems, DevOps automation, applied machine learning, and geoscience workflows.</em></p>
+<p align="center"><em>Cloud-native systems, DevOps automation, applied machine learning, and geoscience workflows.</em></p>
+
+<br />
+
 
 ## Skills
 
