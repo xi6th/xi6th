@@ -40,11 +40,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="36" height="36" />
 </div>
 
-<br />
-<p align="center"><em>Cloud-native systems, DevOps automation, applied machine learning, and geoscience workflows.</em></p>
-<br />
-
-
 ## Skills
 
 <table>
