@@ -27,15 +27,6 @@
 <br />
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems"
-    alt="Typing subtitle"
-  />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="38" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="38" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="38" height="38" />
