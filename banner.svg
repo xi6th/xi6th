@@ -1,4 +1,4 @@
-<svg width="800" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="800" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="title desc">
   <title id="title">Douglas Ejiroghene Dominic banner</title>
   <desc id="desc">A dark teal gradient banner with animated typing text.</desc>
 
@@ -15,17 +15,6 @@
       <stop offset="1" stop-color="#34D399" stop-opacity="0.0"/>
     </linearGradient>
 
-    <clipPath id="typingMask">
-      <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;0;620;620;0" keyTimes="0;0.12;0.58;0.88;1" dur="8s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-
-    <clipPath id="roleMask">
-      <rect x="0" y="0" width="0" height="40">
-        <animate attributeName="width" values="0;0;520;520;0" keyTimes="0;0.55;0.82;0.94;1" dur="8s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
   </defs>
 
   <rect width="800" height="220" fill="url(#bg)" />
@@ -33,17 +22,14 @@
   <path d="M0 196C108 181 186 198 270 191C370 182 430 159 530 167C625 175 690 194 800 180V220H0V196Z" fill="#091625" fill-opacity="0.65" />
   <ellipse cx="405" cy="96" rx="250" ry="70" fill="url(#glow)" />
 
-  <g clip-path="url(#typingMask)">
-    <text x="400" y="106" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="0.5">
-      DOUGLAS EJIROGHENE DOMINIC
-    </text>
-  </g>
-
-  <g clip-path="url(#roleMask)">
-    <text x="400" y="138" text-anchor="middle" fill="#D6FBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2">
-      ENGINEERING LEAD | GEOLOGY &amp; COMPUTATIONAL SYSTEMS
-    </text>
-  </g>
+  <image
+    x="40"
+    y="64"
+    width="720"
+    height="68"
+    href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic;Engineering+Lead+%7C+Geology+%26+Computational+Systems"
+    xlink:href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic;Engineering+Lead+%7C+Geology+%26+Computational+Systems"
+  />
 
   <rect x="160" y="147" width="480" height="2" fill="#4DE1C1" fill-opacity="0.18" />
   <rect x="160" y="147" width="10" height="2" fill="#4DE1C1">
