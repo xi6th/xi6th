@@ -35,11 +35,10 @@
   />
 </div>
 <div align="center">
-  <h1>
+  <h2>
      <strong> Core </strong>
-  </h1>
+  </h2>
 </div>
-</br>
  
 </div>
 <div align="center">
