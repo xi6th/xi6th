@@ -85,12 +85,6 @@
 
 ## Research Experience
 
-### Geochemical Analysis of Akparavuni, Cross River State, Nigeria
-_Independent Academic Research - 2019_
-
-- 🧪 Geochemical sampling, laboratory analysis, and mineralogical interpretation.
-- 📍 Analytical assessment of geochemical signatures and spatial variation.
-- 📝 Research material prepared and submitted for academic evaluation.
 
 ### Electronic Health Record (EHR) System for Patient Data Management and Real-Time Monitoring
 _Applied Systems Research - Ongoing_
@@ -105,6 +99,13 @@ _Applied Machine Learning Research - Ongoing_
 - 🤖 Literature review and preprocessing on clinical signal datasets.
 - 🔍 Applied ML techniques for detection and classification.
 - 📝 Research material prepared and submitted for academic consideration.
+  
+### Geochemical Analysis of Akparavuni, Cross River State, Nigeria
+_Independent Academic Research - 2019_
+
+- 🧪 Geochemical sampling, laboratory analysis, and mineralogical interpretation.
+- 📍 Analytical assessment of geochemical signatures and spatial variation.
+- 📝 Research material prepared and submitted for academic evaluation.
 
 ## Professional Memberships
 
