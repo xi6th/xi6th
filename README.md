@@ -4,10 +4,7 @@
     alt="Animated greetings."
   />
 
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems"
-    alt="Typing role"
-  />
+
 
   <img
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
@@ -33,8 +30,8 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=17&pause=1000&color=14B8A6&center=true&vCenter=true&width=980&lines=Cloud-native+systems%2C+DevOps+automation%2C+applied+machine+learning%2C+and+geoscience+workflows"
-    alt="Typing summary"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems"
+    alt="Typing role"
   />
 </div>
 
