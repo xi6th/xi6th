@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=14B8A6&center=true&vCenter=true&width=920&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic;Bonjour%2C+je+suis+Douglas+Ejiroghene+Dominic;Hola%2C+soy+Douglas+Ejiroghene+Dominic;Hallo%2C+ich+bin+Douglas+Ejiroghene+Dominic;Ciao%2C+sono+Douglas+Ejiroghene+Dominic;Olá%2C+eu+sou+Douglas+Ejiroghene+Dominic"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=860&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic;Bonjour%2C+je+suis+Douglas+Ejiroghene+Dominic;Hola%2C+soy+Douglas+Ejiroghene+Dominic;Hallo%2C+ich+bin+Douglas+Ejiroghene+Dominic"
     alt="Animated greetings"
   />
 
