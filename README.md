@@ -129,12 +129,14 @@ _Applied Machine Learning Research - Ongoing_
 <table>
   <tr>
     <td width="50%">
+      <strong>GitHub streak stats</strong><br /><br />
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=xi6th&theme=nightowl"
         alt="GitHub streak stats"
       />
     </td>
     <td width="50%">
+      <strong>Top languages</strong><br /><br />
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi6th&layout=compact&card_width=445&hide=html,css,C#"
         alt="Top languages"
