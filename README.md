@@ -26,8 +26,11 @@
     </a>
   </p>
 
-  <p><em>Cloud-native systems, DevOps automation, applied machine learning, and geoscience workflows.</em></p>
 </div>
+
+<br />
+
+<p align="center"><em>Cloud-native systems, DevOps automation, applied machine learning, and geoscience workflows.</em></p>
 
 <br />
 
