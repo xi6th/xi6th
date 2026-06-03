@@ -1,8 +1,18 @@
 <div align="center">
   <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=860&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic"
+    alt="Animated intro"
+  />
+
+  <img
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
     width="130"
     alt="Coding at home"
+  />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems"
+    alt="Typing subtitle"
   />
 
   <p>
