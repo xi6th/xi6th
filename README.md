@@ -80,26 +80,37 @@
 
 ## Research Experience
 
-### Geochemical Analysis of Akparavuni, Cross River State, Nigeria
-_Independent Academic Research - 2019_
-
-- Conducted geochemical sampling, laboratory analysis, and interpretation of mineralogical data.
-- Applied analytical techniques to assess geochemical signatures and spatial variation.
-- Research material prepared and submitted for academic evaluation.
-
-### Electronic Health Record (EHR) System for Patient Data Management and Real-Time Monitoring
-_Applied Systems Research - Ongoing_
-
-- Designed and implemented a secure electronic health record system for clinical data management.
-- Integrated real-time data processing and system validation for healthcare operations.
-- Research-oriented system design prepared as a technical research submission.
-
-### Machine Learning-Based Detection and Classification of Cardiac Arrest Types Using Clinical Signal Data
-_Applied Machine Learning Research - Ongoing_
-
-- Conducted literature review and data preprocessing on clinical signal datasets.
-- Applied machine learning techniques for pattern detection and classification.
-- Research material prepared and submitted for academic consideration.
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Geochemical Analysis of Akparavuni, Cross River State, Nigeria</strong><br />
+      <img src="https://img.shields.io/badge/Independent%20Academic%20Research-2019-0f766e?style=for-the-badge" alt="Independent Academic Research 2019" /><br /><br />
+      <ul>
+        <li>Geochemical sampling, laboratory analysis, and mineralogical interpretation.</li>
+        <li>Analytical assessment of geochemical signatures and spatial variation.</li>
+        <li>Research material prepared and submitted for academic evaluation.</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Electronic Health Record (EHR) System for Patient Data Management and Real-Time Monitoring</strong><br />
+      <img src="https://img.shields.io/badge/Applied%20Systems%20Research-Ongoing-14b8a6?style=for-the-badge" alt="Applied Systems Research Ongoing" /><br /><br />
+      <ul>
+        <li>Designed a secure EHR system for clinical data management.</li>
+        <li>Integrated real-time processing and validation for healthcare workflows.</li>
+        <li>Prepared as a technical research submission.</li>
+      </ul>
+    </td>
+    <td valign="top" width="34%">
+      <strong>Machine Learning-Based Detection and Classification of Cardiac Arrest Types Using Clinical Signal Data</strong><br />
+      <img src="https://img.shields.io/badge/Applied%20Machine%20Learning%20Research-Ongoing-1d4ed8?style=for-the-badge" alt="Applied Machine Learning Research Ongoing" /><br /><br />
+      <ul>
+        <li>Literature review and preprocessing on clinical signal datasets.</li>
+        <li>Applied ML techniques for detection and classification.</li>
+        <li>Research material prepared and submitted for academic consideration.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Professional Memberships
 
