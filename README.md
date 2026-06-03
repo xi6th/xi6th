@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=860&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic;Engineering+Lead+%7C+Geology+%26+Computational+Systems"
-    alt="Animated header text"
+    src="./banner.svg"
+    alt="Douglas Ejiroghene Dominic banner"
   />
 
   <img
