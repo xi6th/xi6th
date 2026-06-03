@@ -10,11 +10,6 @@
     alt="Coding at home"
   />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems"
-    alt="Typing subtitle"
-  />
-
   <p>
     <a href="https://www.linkedin.com/in/douglas-ejiroghene-4979a5150">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,6 +22,15 @@
     </a>
   </p>
 
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems"
+    alt="Typing subtitle"
+  />
 </div>
 
 <br />
