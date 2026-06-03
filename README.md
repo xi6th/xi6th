@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=960&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic;Bonjour%2C+je+suis+Douglas+Ejiroghene+Dominic;Hola%2C+soy+Douglas+Ejiroghene+Dominic;Hallo%2C+ich+bin+Douglas+Ejiroghene+Dominic;Ciao%2C+sono+Douglas+Ejiroghene+Dominic;Ol%C3%A1%2C+eu+sou+Douglas+Ejiroghene+Dominic;Marhaba%2C+ana+Douglas+Ejiroghene+Dominic;Habari%2C+mimi+ni+Douglas+Ejiroghene+Dominic;Pele+o%2C+emi+ni+Douglas+Ejiroghene+Dominic;Ndewo%2C+ab%C3%A0m+Douglas+Ejiroghene+Dominic;Namaste%2C+main+Douglas+Ejiroghene+Dominic+h%C3%B9n;Ni+hao%2C+wo+shi+Douglas+Ejiroghene+Dominic"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=980&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic;Bonjour%2C+je+suis+Douglas+Ejiroghene+Dominic;Hola%2C+soy+Douglas+Ejiroghene+Dominic;Sannu%2C+ni+Douglas+Ejiroghene+Dominic+ne;Moro%2C+Douglas+Ejiroghene+Dominic;Marhaba%2C+ana+Douglas+Ejiroghene+Dominic;Shlama%2C+ana+Douglas+Ejiroghene+Dominic;Hallo%2C+ich+bin+Douglas+Ejiroghene+Dominic"
     alt="Animated greetings"
   />
 
