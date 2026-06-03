@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=860&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=860&lines=Hey%2C+I%27M+Douglas+Ejiroghene+Dominic;Bonjour%2C+je+suis+Douglas+Ejiroghene+Dominic;Hola%2C+soy+Douglas+Ejiroghene+Dominic;Olá%2C+eu+sou+Douglas+Ejiroghene+Dominic;Hallo%2C+ich+bin+Douglas+Ejiroghene+Dominic;Ciao%2C+sono+Douglas+Ejiroghene+Dominic;مرحبا%2C+أنا+دوجلاس+إجيروغييني+دومينيك;Habari%2C+mimi+ni+Douglas+Ejiroghene+Dominic;Sannu%2C+ni+Douglas+Ejiroghene+Dominic;Ndewo%2C+ab%C3%A3m+Douglas+Ejiroghene+Dominic;你好%EF%BC%8C%E6%88%91%E6%98%AFDouglas+Ejiroghene+Dominic;नमस्ते%2C+मैं+Douglas+Ejiroghene+Dominic+हूं"
     alt="Animated intro"
   />
 
