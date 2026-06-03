@@ -123,21 +123,10 @@ _Independent Academic Research - 2019_
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <strong>GitHub streak stats</strong><br /><br />
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=xi6th&theme=nightowl"
-        alt="GitHub streak stats"
-      />
-    </td>
-    <td width="50%">
-      <strong>Top languages</strong><br /><br />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi6th&layout=compact&theme=nightowl&langs_count=6&hide=html,css,C%23"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <strong>GitHub streak stats</strong><br /><br />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=xi6th&theme=nightowl"
+    alt="GitHub streak stats"
+  />
+</div>
