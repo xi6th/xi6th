@@ -30,7 +30,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=860&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems;Engineering+Lead+%7C+Cloud+Architecture+%26+DevOps;Founder+%7C+Cloud+Native+Systems;Geology+%26+Computational+Systems+Engineer"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=920&lines=Engineering+Lead+%7C+Geology+%26+Computational+Systems;Building+secure+cloud-native+platforms;Automating+infrastructure+and+delivery;Shipping+research-driven+tools;Turning+data+into+actionable+systems"
     alt="Typing role"
   />
 </div>
