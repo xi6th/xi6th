@@ -5,11 +5,6 @@
   />
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=220&section=header&text=&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=34"
-    alt="Header banner"
-  />
-
-  <img
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
     width="130"
     alt="Coding at home"
