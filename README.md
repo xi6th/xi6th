@@ -12,6 +12,11 @@
 
   <h3>Engineering Lead | Geology & Computational Systems</h3>
 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&lines=Hey%2C+my+name+is+Douglas+Ejiroghene+Dominic"
+    alt="Animated intro"
+  />
+
   <p>
     <a href="https://www.linkedin.com/in/douglas-ejiroghene-4979a5150">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
