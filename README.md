@@ -10,10 +10,8 @@
     alt="Coding at home"
   />
 
-  <h3>Engineering Lead | Geology & Computational Systems</h3>
-
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&lines=Hey%2C+my+name+is+Douglas+Ejiroghene+Dominic"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=860&lines=Hey%2C+my+name+is+Douglas+Ejiroghene+Dominic;Engineering+Lead+%7C+Geology+%26+Computational+Systems"
     alt="Animated intro"
   />
 
